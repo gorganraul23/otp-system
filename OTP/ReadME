@@ -1,0 +1,8 @@
+Backend - .Net8
+Frontend - Angular 17
+
+La rularea proiectului se populeaza BD cu un user:
+    - email - test@yahoo.com
+    - parola - password
+
+Se poate testa generarea de OTP code, care expira dupa un interval de timp (care se poate modifica)
