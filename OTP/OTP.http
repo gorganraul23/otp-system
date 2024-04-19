@@ -1,0 +1,6 @@
+@OTP_HostAddress = http://localhost:5207
+
+GET {{OTP_HostAddress}}//
+Accept: application/json
+
+###

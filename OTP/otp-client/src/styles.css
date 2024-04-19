@@ -1,0 +1,12 @@
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html, body{
+    min-width: 100%;
+    min-height: 100%;
+    background-color: rgb(249 250 251);
+}

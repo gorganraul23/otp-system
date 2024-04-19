@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gorgan Raul\\Desktop\\MyDesigns\\Net\\OTP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25254E66-9098-48C9-823A-378A427B71E2}|OTP\\OTP.csproj|c:\\users\\gorgan raul\\desktop\\mydesigns\\net\\otp\\otp\\otp-client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25254E66-9098-48C9-823A-378A427B71E2}|OTP\\OTP.csproj|solutionrelative:otp\\otp-client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Gorgan Raul\\Desktop\\MyDesigns\\Net\\OTP\\OTP\\otp-client\\src\\index.html",
+              "RelativeDocumentMoniker": "OTP\\otp-client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Gorgan Raul\\Desktop\\MyDesigns\\Net\\OTP\\OTP\\otp-client\\src\\index.html",
+              "RelativeToolTip": "OTP\\otp-client\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-16T20:13:49.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
